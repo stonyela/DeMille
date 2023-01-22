@@ -1,0 +1,10 @@
+/Users/sinovuyotonyela/Downloads/DeMille/bin/Debug/netcoreapp3.1/DeMille.Pontiac.deps.json
+/Users/sinovuyotonyela/Downloads/DeMille/bin/Debug/netcoreapp3.1/DeMille.Pontiac.dll
+/Users/sinovuyotonyela/Downloads/DeMille/bin/Debug/netcoreapp3.1/DeMille.Pontiac.pdb
+/Users/sinovuyotonyela/Downloads/DeMille/obj/Debug/netcoreapp3.1/DeMille.Pontiac.csproj.AssemblyReference.cache
+/Users/sinovuyotonyela/Downloads/DeMille/obj/Debug/netcoreapp3.1/DeMille.Pontiac.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sinovuyotonyela/Downloads/DeMille/obj/Debug/netcoreapp3.1/DeMille.Pontiac.AssemblyInfoInputs.cache
+/Users/sinovuyotonyela/Downloads/DeMille/obj/Debug/netcoreapp3.1/DeMille.Pontiac.AssemblyInfo.cs
+/Users/sinovuyotonyela/Downloads/DeMille/obj/Debug/netcoreapp3.1/DeMille.Pontiac.csproj.CoreCompileInputs.cache
+/Users/sinovuyotonyela/Downloads/DeMille/obj/Debug/netcoreapp3.1/DeMille.Pontiac.dll
+/Users/sinovuyotonyela/Downloads/DeMille/obj/Debug/netcoreapp3.1/DeMille.Pontiac.pdb

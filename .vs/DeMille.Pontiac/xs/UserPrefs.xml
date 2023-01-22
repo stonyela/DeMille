@@ -1,0 +1,55 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Dependencies/IPdfGenerator.cs">
+    <Files>
+      <File FileName="IApplicationDocumentGenerator.cs" Line="1" Column="1" />
+      <File FileName="PdfApplicationDocumentGenerator.cs" Line="40" Column="5" />
+      <File FileName="README.md" Line="14" Column="4" />
+      <File FileName="Dependencies/README.md" Line="1" Column="1" />
+      <File FileName="Dependencies/ActivatedApplicationViewModel.cs" Line="1" Column="1" />
+      <File FileName="Dependencies/Application.cs" Line="1" Column="1" />
+      <File FileName="Dependencies/ApplicationState.cs" Line="1" Column="1" />
+      <File FileName="Dependencies/ApplicationViewModel.cs" Line="1" Column="1" />
+      <File FileName="Dependencies/EnumExtensions.cs" Line="1" Column="1" />
+      <File FileName="Dependencies/HeaderOptions.cs" Line="1" Column="1" />
+      <File FileName="Dependencies/HeaderRepeat.cs" Line="1" Column="1" />
+      <File FileName="Dependencies/IConfiguration.cs" Line="9" Column="2" />
+      <File FileName="Dependencies/IDataContext.cs" Line="8" Column="3" />
+      <File FileName="Dependencies/Fund.cs" Line="8" Column="2" />
+      <File FileName="Dependencies/ILogger.cs" Line="1" Column="1" />
+      <File FileName="Dependencies/InReviewApplicationViewModel.cs" Line="1" Column="1" />
+      <File FileName="Dependencies/IPathProvider.cs" Line="1" Column="1" />
+      <File FileName="Dependencies/IPdfGenerator.cs" Line="5" Column="21" />
+      <File FileName="Dependencies/PageNumbers.cs" Line="1" Column="1" />
+      <File FileName="Dependencies/PdfDocument.cs" Line="1" Column="1" />
+      <File FileName="Dependencies/IViewGenerator.cs" Line="1" Column="1" />
+      <File FileName="Dependencies/LegalEntity.cs" Line="1" Column="1" />
+      <File FileName="Dependencies/Product.cs" Line="1" Column="1" />
+      <File FileName="Dependencies/Person.cs" Line="1" Column="1" />
+      <File FileName="Dependencies/PendingApplicationViewModel.cs" Line="1" Column="1" />
+      <File FileName="Dependencies/PdfOptions.cs" Line="1" Column="1" />
+      <File FileName="Dependencies/PdfConstants.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DeMille.Pontiac" expanded="True">
+            <Node name="DeMille.Pontiac" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name="Dependencies" expanded="True">
+                <Node name="IPdfGenerator.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
